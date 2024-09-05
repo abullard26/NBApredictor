@@ -1,0 +1,1312 @@
+Boston, Philadelphia, 18
+Golden State, Oklahoma City, 8
+Charlotte, Milwaukee, -1
+Detroit, Brooklyn, 3
+Houston, New Orleans, -19
+Indiana, Memphis, 28
+LA Clippers, Denver, -9
+New York, Atlanta, 19
+Orlando, Miami, 3
+Phoenix, Dallas, 21
+Sacramento, Utah, -6
+San Antonio, Minnesota, 4
+Toronto, Cleveland, 12
+Philadelphia, Chicago, 19
+Portland, LA Lakers, 9
+Washington, Miami, -1
+Brooklyn, New York, 2
+LA Clippers, Oklahoma City, 16
+Memphis, Atlanta, 14
+Milwaukee, Indiana, 17
+Minnesota, Cleveland, 8
+New Orleans, Sacramento, 20
+Orlando, Charlotte, -32
+Toronto, Boston, 12
+Utah, Golden State, -1
+Chicago, Detroit, -2
+Dallas, Minnesota, 4
+Denver, Phoenix, 28
+Indiana, Brooklyn, 20
+LA Lakers, Houston, -9
+Miami, Charlotte, -1
+New York, Boston, -2
+Philadelphia, Orlando, 1
+Portland, San Antonio, 13
+Washington, Toronto, -4
+Cleveland, Atlanta, -22
+Denver, Golden State, 2
+LA Clippers, Houston, 3
+Oklahoma City, Sacramento, -11
+Boston, Orlando, -3
+Dallas, Chicago, 6
+Golden State, Phoenix, 20
+LA Lakers, San Antonio, -1
+Milwaukee, New York, 11
+Minnesota, Indiana, 10
+Portland, Washington, -1
+Toronto, Charlotte, 21
+Utah, Memphis, -8
+Denver, Sacramento, 14
+Detroit, Philadelphia, 1
+New Orleans, LA Clippers, 7
+Atlanta, Dallas, 7
+Chicago, Charlotte, 2
+Cleveland, Brooklyn, -16
+Golden State, Washington, 22
+Houston, Utah, -11
+Miami, New York, 23
+Milwaukee, Philadelphia, 15
+Phoenix, LA Lakers, -18
+Sacramento, Memphis, 5
+San Antonio, Indiana, -20
+Toronto, Minnesota, 7
+Detroit, Cleveland, 7
+LA Lakers, Denver, 7
+Oklahoma City, Boston, -6
+Orlando, Portland, -14
+Charlotte, Chicago, 29
+Houston, LA Clippers, -20
+Minnesota, Milwaukee, -30
+New Orleans, Brooklyn, 2
+New York, Golden State, -28
+Sacramento, Washington, 4
+Toronto, Dallas, 9
+Atlanta, Chicago, -12
+Cleveland, Indiana, -12
+Detroit, Boston, -20
+Memphis, Phoenix, 21
+Miami, Portland, 9
+Milwaukee, Orlando, 22
+New Orleans, Utah, -21
+Philadelphia, Charlotte, 2
+San Antonio, LA Lakers, 4
+Brooklyn, Golden State, -6
+Dallas, Utah, -9
+LA Clippers, Washington, 32
+Oklahoma City, Phoenix, 7
+Chicago, Golden State, -25
+Denver, New Orleans, 5
+Indiana, Portland, -10
+Miami, Sacramento, -10
+Milwaukee, Toronto, 15
+Minnesota, LA Lakers, 4
+New York, Brooklyn, 19
+Philadelphia, Atlanta, 21
+San Antonio, Dallas, 5
+Boston, Detroit, 3
+Charlotte, Miami, 12
+Cleveland, Atlanta, 22
+Houston, Portland, -19
+Memphis, Washington, 12
+Oklahoma City, LA Clippers, 18
+Orlando, Sacramento, -8
+Toronto, Philadelphia, 17
+Brooklyn, Detroit, 1
+Chicago, Denver, -1
+Golden State, New Orleans, 10
+LA Lakers, Dallas, 1
+Minnesota, Utah, 3
+New York, Indiana, -6
+Phoenix, San Antonio, -30
+Atlanta, Sacramento, -31
+Boston, Milwaukee, 4
+Charlotte, Oklahoma City, -4
+Cleveland, Denver, -19
+Philadelphia, LA Clippers, 9
+Portland, New Orleans, 13
+Brooklyn, Houston, -8
+Chicago, Indiana, -2
+Dallas, New York, -12
+Golden State, Minnesota, 17
+Orlando, LA Clippers, -25
+Phoenix, Toronto, -9
+Utah, Memphis, -10
+Washington, Oklahoma City, -23
+Atlanta, Miami, 5
+Chicago, Houston, -8
+Charlotte, Cleveland, 32
+Denver, Utah, 15
+Indiana, Boston, 1
+Philadelphia, Detroit, 10
+Portland, LA Lakers, -4
+San Antonio, New Orleans, 14
+Brooklyn, Philadelphia, 25
+LA Lakers, Toronto, -14
+Milwaukee, Sacramento, 35
+Phoenix, Memphis, 2
+Portland, Minnesota, 30
+San Antonio, Orlando, -7
+Washington, New York, 13
+Denver, Boston, 8
+Detroit, Miami, -5
+Golden State, Memphis, 16
+Indiana, Houston, -4
+LA Clippers, Minnesota, 11
+New York, Chicago, -1
+Oklahoma City, New Orleans, 6
+Orlando, Cleveland, 2
+Utah, Toronto, -13
+Charlotte, Atlanta, 11
+Dallas, Washington, 19
+Phoenix, Brooklyn, -22
+Portland, Milwaukee, 15
+Atlanta, New York, -5
+Cleveland, Oklahoma City, -9
+Indiana, Philadelphia, -6
+LA Lakers, Minnesota, 4
+Memphis, Denver, 2
+Miami, San Antonio, 7
+New Orleans, Chicago, 9
+Orlando, Detroit, -7
+Sacramento, Toronto, -9
+Utah, Dallas, 15
+Golden State, Milwaukee, -23
+Oklahoma City, Houston, 18
+Phoenix, Boston, -7
+Portland, LA Clippers, 11
+Atlanta, Detroit, -15
+Denver, Brooklyn, -2
+Miami, Indiana, -8
+Orlando, Washington, 9
+Philadelphia, Charlotte, 1
+Sacramento, Minnesota, 11
+Utah, Boston, 8
+Chicago, Cleveland, 1
+Dallas, Oklahoma City, 15
+Golden State, Brooklyn, 16
+LA Clippers, Milwaukee, 2
+Memphis, Philadelphia, 6
+Miami, Washington, -6
+New Orleans, Phoenix, 20
+Sacramento, LA Lakers, -15
+San Antonio, Houston, 7
+Toronto, New York, 16
+Denver, Milwaukee, -7
+Detroit, Charlotte, -10
+Houston, Indiana, 12
+LA Lakers, Atlanta, 1
+New York, Orlando, -26
+Portland, Boston, 6
+Chicago, Dallas, -5
+LA Clippers, Golden State, 5
+Memphis, Utah, -8
+Miami, Philadelphia, -10
+Minnesota, Brooklyn, 7
+Oklahoma City, Phoenix, 17
+Sacramento, San Antonio, 5
+Toronto, New Orleans, -16
+Washington, Orlando, 8
+Cleveland, Charlotte, 24
+Denver, Houston, -10
+Golden State, Atlanta, 7
+Boston, Chicago, 29
+Brooklyn, Miami, -13
+Dallas, Utah, 50
+LA Lakers, Portland, 9
+Milwaukee, Memphis, -3
+Minnesota, New Orleans, 7
+Oklahoma City, New York, 25
+Orlando, Philadelphia, 5
+Phoenix, San Antonio, 20
+Toronto, Detroit, -2
+Washington, Cleveland, 24
+Denver, Atlanta, 45
+Houston, Golden State, 21
+LA Clippers, San Antonio, 5
+Boston, Toronto, 7
+Indiana, Miami, 8
+Memphis, Sacramento, 8
+Milwaukee, Chicago, 19
+Minnesota, Portland, 16
+New Orleans, New York, 5
+Philadelphia, Utah, 6
+Washington, Brooklyn, -11
+Boston, Utah, -12
+Brooklyn, LA Clippers, -8
+Chicago, Toronto, -39
+Charlotte, Philadelphia, -3
+Dallas, Golden State, 3
+Houston, Sacramento, 20
+Indiana, Atlanta, 8
+New Orleans, Denver, 10
+Orlando, LA Lakers, 13
+Phoenix, Oklahoma City, -10
+Miami, LA Lakers, -16
+Minnesota, Memphis, -13
+Orlando, New York, 14
+San Antonio, Golden State, 12
+Washington, Portland, -10
+Atlanta, LA Clippers, -8
+Charlotte, Boston, 5
+Detroit, Cleveland, 11
+Indiana, Utah, 27
+Memphis, Dallas, 10
+Milwaukee, Denver, 6
+New Orleans, San Antonio, 14
+Philadelphia, Phoenix, 5
+Sacramento, Oklahoma City, 4
+Miami, Brooklyn, -12
+New York, Portland, -4
+Orlando, Toronto, -2
+Washington, LA Clippers, 7
+Atlanta, Toronto, -16
+Boston, New York, -8
+Chicago, Phoenix, 8
+Charlotte, Indiana, 18
+Cleveland, LA Lakers, -4
+Dallas, Brooklyn, 6
+Golden State, Oklahoma City, -28
+Houston, Detroit, 2
+Milwaukee, Portland, 43
+Minnesota, Denver, -2
+Philadelphia, New Orleans, 1
+San Antonio, Memphis, -1
+Utah, Sacramento, -9
+Atlanta, Boston, -18
+Brooklyn, Minnesota, -10
+Chicago, Miami, -7
+Denver, Orlando, 25
+Detroit, Houston, 5
+Golden State, Portland, 28
+Indiana, San Antonio, -11
+LA Clippers, Memphis, 5
+LA Lakers, Utah, 7
+Milwaukee, Phoenix, -2
+New York, New Orleans, 5
+Oklahoma City, Charlotte, 5
+Philadelphia, Cleveland, -9
+Toronto, Washington, 18
+Cleveland, Houston, 9
+Dallas, Boston, 9
+Golden State, Sacramento, 1
+Milwaukee, San Antonio, 6
+Minnesota, Chicago, 15
+Oklahoma City, Denver, -7
+Washington, New Orleans, 10
+Atlanta, Charlotte, 1
+Brooklyn, Philadelphia, -2
+Detroit, Phoenix, 11
+LA Lakers, Orlando, -4
+Memphis, New York, -5
+Portland, LA Clippers, -4
+Sacramento, Utah, -21
+Toronto, Miami, 10
+Chicago, San Antonio, -1
+Charlotte, Milwaukee, 3
+Cleveland, Minnesota, -7
+Golden State, Orlando, 6
+New Orleans, Boston, -17
+Utah, Indiana, -33
+Washington, Houston, 4
+Denver, LA Lakers, 32
+Detroit, New York, 7
+Memphis, Toronto, -8
+Miami, Atlanta, -2
+Phoenix, Indiana, -5
+Brooklyn, Utah, -10
+Charlotte, Atlanta, 14
+Houston, Dallas, -20
+LA Clippers, Phoenix, 16
+Milwaukee, Chicago, 3
+Minnesota, San Antonio, 39
+New Orleans, Washington, 21
+Oklahoma City, Cleveland, 17
+Philadelphia, New York, 26
+Portland, Orlando, 3
+LA Lakers, Indiana, 8
+Sacramento, LA Clippers, -12
+Toronto, Golden State, 3
+Boston, Cleveland, 33
+Brooklyn, Memphis, -6
+Charlotte, Utah, -8
+Detroit, Chicago, 19
+LA Lakers, Dallas, 11
+Miami, New Orleans, 5
+Oklahoma City, Atlanta, 15
+Philadelphia, Washington, 25
+Phoenix, Orlando, -14
+Portland, Denver, -1
+San Antonio, Houston, -31
+Cleveland, Toronto, -11
+Detroit, Golden State, 9
+Houston, Chicago, 16
+Minnesota, Boston, -9
+New York, Milwaukee, 2
+Sacramento, Indiana, 1
+Washington, Brooklyn, 14
+Charlotte, New Orleans, -10
+Dallas, LA Clippers, 4
+LA Lakers, Phoenix, 24
+Miami, Utah, 2
+Philadelphia, Memphis, 8
+San Antonio, Portland, 13
+Atlanta, Golden State, -17
+Brooklyn, Cleveland, -2
+Detroit, Oklahoma City, -27
+Minnesota, Houston, 12
+New Orleans, LA Clippers, -3
+New York, Washington, -3
+Toronto, Denver, -3
+Dallas, Portland, 9
+Indiana, Chicago, 6
+Miami, Orlando, -15
+Phoenix, Sacramento, -17
+Utah, San Antonio, 34
+Atlanta, Washington, -14
+Brooklyn, Oklahoma City, -2
+Cleveland, Golden State, -24
+LA Lakers, San Antonio, 8
+Memphis, LA Clippers, 10
+Milwaukee, Detroit, 23
+Minnesota, Charlotte, 17
+New Orleans, Dallas, 26
+Orlando, Denver, -6
+Toronto, Philadelphia, 11
+Boston, New York, 28
+Portland, Phoenix, 22
+Utah, Houston, 27
+Brooklyn, Toronto, 1
+Chicago, Oklahoma City, 2
+Charlotte, Denver, 6
+Cleveland, Sacramento, -19
+Detroit, Philadelphia, -6
+Milwaukee, Golden State, -10
+New Orleans, Memphis, -4
+Orlando, Indiana, -22
+Phoenix, Miami, -17
+San Antonio, LA Lakers, 13
+Atlanta, Denver, 8
+Chicago, Boston, -56
+Cleveland, Washington, 15
+Dallas, Houston, 3
+Indiana, Sacramento, 10
+LA Clippers, Miami, -23
+Memphis, LA Lakers, -23
+New York, Brooklyn, -8
+Portland, Minnesota, 8
+Detroit, New Orleans, -8
+New York, Charlotte, -12
+San Antonio, Utah, 13
+Toronto, Milwaukee, -5
+Boston, New Orleans, 13
+Chicago, Sacramento, -19
+Dallas, Orlando, 25
+Denver, Memphis, 6
+Golden State, Minnesota, 8
+Indiana, Washington, 8
+LA Lakers, Miami, 3
+Milwaukee, Cleveland, 16
+Oklahoma City, Utah, 9
+Philadelphia, Detroit, 14
+Phoenix, LA Clippers, -4
+Houston, Portland, 7
+LA Clippers, Toronto, -24
+San Antonio, Phoenix, 25
+Charlotte, Detroit, 1
+Cleveland, New York, 7
+Dallas, Atlanta, 7
+Golden State, Toronto, -20
+Indiana, Milwaukee, 16
+Memphis, Portland, 9
+New Orleans, Oklahoma City, 4
+Philadelphia, Brooklyn, -3
+Sacramento, Minnesota, 11
+Utah, Miami, 27
+Washington, Boston, -5
+Houston, LA Lakers, 15
+Orlando, Chicago, 6
+Phoenix, Dallas, 10
+San Antonio, LA Clippers, 38
+Boston, Atlanta, 21
+Brooklyn, Washington, 7
+Charlotte, New York, -2
+Cleveland, Milwaukee, -12
+Denver, Oklahoma City, 11
+Memphis, Miami, -3
+Philadelphia, Indiana, -12
+Portland, Toronto, 6
+Sacramento, Golden State, -5
+Charlotte, LA Lakers, -28
+Detroit, Boston, 9
+Memphis, Houston, -8
+Oklahoma City, LA Clippers, 6
+Orlando, Utah, 7
+Phoenix, Minnesota, 8
+San Antonio, Chicago, -5
+Brooklyn, Atlanta, 17
+Cleveland, Philadelphia, -23
+Dallas, Sacramento, -7
+Denver, Toronto, 9
+Indiana, New York, 11
+New Orleans, Miami, -6
+Washington, LA Lakers, 18
+Detroit, Milwaukee, -3
+Golden State, Memphis, 17
+Houston, Utah, 5
+LA Clippers, Portland, -4
+Minnesota, Sacramento, 27
+New York, Phoenix, -18
+Oklahoma City, Chicago, 25
+San Antonio, Philadelphia, 27
+Atlanta, Washington, 8
+Brooklyn, LA Lakers, 5
+Denver, Dallas, 8
+Indiana, Cleveland, -1
+Boston, Phoenix, -8
+Chicago, Brooklyn, -3
+Charlotte, Cleveland, 11
+Houston, Washington, 18
+Milwaukee, New Orleans, 8
+Minnesota, Detroit, -6
+Orlando, San Antonio, -39
+Philadelphia, New York, 22
+Portland, Memphis, 7
+Sacramento, Oklahoma City, -19
+Toronto, Indiana, 3
+Utah, Golden State, 5
+LA Clippers, Dallas, 4
+Miami, Houston, 2
+Boston, Milwaukee, -13
+Brooklyn, Indiana, -8
+Chicago, Orlando, 10
+Charlotte, Detroit, 12
+LA Lakers, New Orleans, 8
+New York, Atlanta, -7
+Portland, Utah, -30
+Sacramento, Memphis, 3
+San Antonio, Minnesota, 26
+Toronto, Cleveland, 16
+Golden State, Dallas, 4
+Houston, San Antonio, 7
+LA Clippers, Denver, 21
+Miami, Milwaukee, 7
+Philadelphia, Toronto, 25
+Utah, Oklahoma City, -1
+Washington, Phoenix, 3
+Boston, Charlotte, 16
+Brooklyn, Phoenix, 8
+Cleveland, Chicago, -20
+Detroit, Atlanta, -3
+Golden State, LA Clippers, 2
+Indiana, Washington, 16
+LA Lakers, Memphis, -8
+Oklahoma City, Minnesota, -2
+Orlando, Miami, -24
+Portland, Dallas, 3
+Sacramento, New Orleans, 5
+Boston, Philadelphia, 7
+Golden State, LA Lakers, -26
+Houston, Oklahoma City, 4
+New York, Milwaukee, -14
+Utah, Portland, 21
+Atlanta, Indiana, -8
+Brooklyn, Charlotte, 2
+Chicago, Minnesota, -25
+Dallas, New Orleans, 3
+Detroit, Washington, 11
+LA Clippers, Sacramento, 9
+Memphis, Cleveland, 8
+Miami, Toronto, -2
+Orlando, Phoenix, -2
+San Antonio, Denver, 8
+Golden State, Portland, -1
+Houston, Boston, 14
+Milwaukee, New York, 16
+Sacramento, LA Lakers, 1
+Utah, Philadelphia, -17
+Charlotte, Brooklyn, 13
+Denver, San Antonio, 3
+Indiana, Detroit, 37
+LA Lakers, LA Clippers, -11
+Miami, Cleveland, 24
+Minnesota, Atlanta, -3
+New Orleans, Dallas, 2
+Orlando, Toronto, 29
+Phoenix, Oklahoma City, -16
+Washington, Chicago, -9
+Atlanta, Cleveland, 3
+LA Clippers, San Antonio, -11
+Memphis, Boston, -9
+Milwaukee, Brooklyn, 14
+New Orleans, Houston, -4
+Phoenix, Denver, -4
+Portland, Golden State, -10
+Utah, New York, 32
+Washington, Charlotte, 4
+Dallas, Oklahoma City, 2
+LA Lakers, Sacramento, 7
+Miami, Minnesota, -9
+Orlando, Detroit, 2
+Portland, Philadelphia, 34
+Toronto, Chicago, 6
+Charlotte, Orlando, 25
+Houston, Memphis, 12
+Indiana, Atlanta, 8
+New Orleans, Minnesota, 9
+Oklahoma City, Dallas, 20
+Phoenix, Golden State, -23
+San Antonio, Boston, 9
+Denver, New York, 7
+LA Clippers, Philadelphia, -6
+Milwaukee, Detroit, 23
+Sacramento, Portland, -5
+Toronto, Utah, 6
+Boston, Minnesota, 13
+Brooklyn, New Orleans, 5
+Chicago, Orlando, -28
+Charlotte, Dallas, -38
+Cleveland, Miami, -25
+LA Lakers, Oklahoma City, -7
+Memphis, Detroit, -7
+Phoenix, Philadelphia, -5
+Washington, Atlanta, 16
+Golden State, Houston, -1
+Sacramento, Denver, -4
+San Antonio, Toronto, 18
+Boston, Dallas, 21
+Chicago, Indiana, -3
+Cleveland, Utah, -26
+LA Lakers, New York, -7
+Memphis, Brooklyn, -9
+Miami, Washington, 6
+Milwaukee, Atlanta, 32
+Minnesota, Orlando, 17
+Phoenix, LA Clippers, -10
+Portland, Oklahoma City, -2
+Cleveland, New Orleans, -35
+Denver, Charlotte, 13
+Detroit, Utah, -5
+Milwaukee, Toronto, -7
+Philadelphia, Dallas, 6
+Portland, Houston, 9
+Sacramento, Golden State, -4
+San Antonio, Memphis, 20
+Atlanta, Miami, 24
+Chicago, Brooklyn, -17
+LA Clippers, Orlando, 10
+Minnesota, LA Lakers, 22
+Oklahoma City, Washington, -18
+Phoenix, Charlotte, -6
+Toronto, Indiana, 16
+Boston, Brooklyn, 21
+Dallas, LA Lakers, -10
+Detroit, San Antonio, -12
+Houston, Denver, 12
+Milwaukee, Utah, 12
+New Orleans, Memphis, 19
+Portland, New York, 10
+Sacramento, Orlando, 16
+Cleveland, Indiana, -8
+Golden State, New York, 27
+LA Clippers, Charlotte, 19
+Miami, Denver, -4
+Oklahoma City, Minnesota, -2
+Philadelphia, Washington, 17
+Phoenix, Sacramento, 4
+Toronto, Atlanta, 3
+Boston, Indiana, 27
+Brooklyn, Atlanta, 16
+Dallas, Phoenix, 10
+Houston, Milwaukee, -7
+LA Lakers, Detroit, 13
+Memphis, San Antonio, 10
+New Orleans, Cleveland, 16
+Portland, Chicago, 12
+Utah, Orlando, 13
+Washington, Philadelphia, 17
+Denver, LA Clippers, 21
+Miami, Boston, 16
+Sacramento, Detroit, 10
+San Antonio, Oklahoma City, 7
+Golden State, Chicago, 37
+Houston, Cleveland, 28
+Minnesota, Dallas, -4
+New York, Indiana, -15
+Philadelphia, Atlanta, -2
+Portland, Charlotte, 31
+Toronto, Brooklyn, 17
+Utah, LA Lakers, 18
+Washington, Milwaukee, 7
+LA Clippers, Detroit, -5
+Miami, Memphis, 4
+Minnesota, New Orleans, 4
+Oklahoma City, San Antonio, 10
+Orlando, Boston, 2
+Phoenix, Denver, 9
+Sacramento, Charlotte, 7
+Utah, Chicago, 8
+Atlanta, Milwaukee, -19
+Dallas, Golden State, -5
+Denver, Portland, 3
+LA Lakers, Cleveland, -6
+New York, Philadelphia, -3
+Orlando, Houston, 7
+Washington, Toronto, -2
+Brooklyn, Boston, 7
+Houston, Memphis, 18
+LA Clippers, New Orleans, -4
+Sacramento, Portland, 8
+San Antonio, Charlotte, -15
+Utah, Detroit, 6
+Atlanta, Oklahoma City, 16
+Denver, Golden State, -31
+Indiana, Phoenix, 34
+LA Lakers, Chicago, 7
+Milwaukee, Miami, 38
+Philadelphia, Minnesota, 42
+Boston, Toronto, 9
+Dallas, San Antonio, -4
+Detroit, Orlando, 5
+Golden State, New Orleans, 7
+Houston, Brooklyn, -3
+LA Clippers, Utah, -20
+Memphis, Milwaukee, -10
+Portland, Cleveland, 17
+Charlotte, Sacramento, 19
+Denver, Chicago, 30
+Indiana, Philadelphia, -24
+Oklahoma City, LA Lakers, -10
+Toronto, Phoenix, 2
+Washington, New York, 1
+Boston, Memphis, 6
+Detroit, Miami, 5
+LA Clippers, Golden State, -18
+Minnesota, San Antonio, -3
+Orlando, Brooklyn, -2
+Portland, New Orleans, 16
+Utah, Cleveland, 16
+Atlanta, Boston, -8
+Chicago, Miami, -14
+Charlotte, Phoenix, 20
+Denver, Cleveland, 22
+Detroit, Sacramento, -2
+Houston, LA Lakers, 4
+Indiana, Dallas, 12
+Orlando, Milwaukee, -10
+Philadelphia, Oklahoma City, -2
+Toronto, Memphis, 29
+Indiana, Charlotte, 25
+Minnesota, Phoenix, 2
+San Antonio, LA Clippers, -8
+Atlanta, Orlando, -19
+Boston, Miami, 8
+Brooklyn, Sacramento, 29
+Cleveland, Chicago, -16
+LA Lakers, Golden State, -19
+Memphis, New Orleans, -20
+Milwaukee, Dallas, 10
+New York, Oklahoma City, -18
+Philadelphia, Houston, 28
+Utah, Portland, -5
+Washington, Detroit, 14
+Dallas, LA Clippers, 8
+Oklahoma City, Portland, 9
+Phoenix, Minnesota, -27
+Toronto, Sacramento, 15
+Boston, Cleveland, 20
+Brooklyn, Orlando, 4
+Chicago, Atlanta, -20
+Indiana, Toronto, 4
+Memphis, Charlotte, -11
+Miami, LA Clippers, -12
+New Orleans, Detroit, -4
+New York, Houston, -4
+Philadelphia, San Antonio, 2
+Utah, Denver, 6
+LA Lakers, Minnesota, -15
+Oklahoma City, New Orleans, 6
+Phoenix, Portland, -14
+Washington, Golden State, -8
+Brooklyn, New York, 10
+Chicago, LA Clippers, -5
+Cleveland, Miami, -6
+Dallas, Detroit, 5
+Denver, Phoenix, 37
+Houston, Toronto, 2
+Memphis, Sacramento, -3
+Milwaukee, Charlotte, 9
+Orlando, Washington, -4
+Utah, Minnesota, 4
+Boston, Golden State, -4
+Denver, Philadelphia, 16
+Memphis, Indiana, 3
+New Orleans, San Antonio, -12
+Portland, Atlanta, 9
+Chicago, Cleveland, -3
+Dallas, Toronto, -3
+Houston, Orlando, 5
+LA Clippers, Sacramento, 14
+LA Lakers, Phoenix, 14
+Minnesota, Utah, -14
+New York, Miami, -9
+Oklahoma City, Milwaukee, 6
+San Antonio, Washington, 13
+Boston, Brooklyn, 8
+Charlotte, New York, 9
+Indiana, Golden State, -32
+LA Clippers, Atlanta, -5
+Memphis, Denver, -3
+Brooklyn, Chicago, 5
+Cleveland, Washington, 3
+Detroit, Milwaukee, -10
+Houston, New Orleans, -5
+LA Lakers, Philadelphia, -16
+Orlando, Oklahoma City, -9
+San Antonio, Phoenix, 2
+Boston, Charlotte, 32
+Miami, Chicago, -16
+Minnesota, Memphis, 2
+New Orleans, Denver, -6
+New York, Dallas, -24
+Portland, Utah, 27
+Sacramento, Atlanta, 22
+Washington, Indiana, 18
+Detroit, Dallas, 4
+Golden State, Philadelphia, -9
+LA Clippers, LA Lakers, -3
+Orlando, Indiana, 7
+San Antonio, Brooklyn, 3
+Toronto, Milwaukee, -13
+Charlotte, Memphis, 8
+Denver, Houston, 14
+Miami, Oklahoma City, -16
+New York, Boston, -14
+Utah, Atlanta, 16
+Charlotte, Chicago, 7
+Cleveland, Dallas, -13
+Detroit, LA Clippers, -10
+Golden State, LA Lakers, 14
+Miami, Indiana, -7
+Minnesota, Denver, -1
+Orlando, Brooklyn, 13
+Phoenix, Atlanta, -6
+Sacramento, Philadelphia, 7
+San Antonio, New Orleans, 5
+Utah, Houston, -27
+Washington, Milwaukee, -16
+Boston, Oklahoma City, 5
+New York, Memphis, -12
+Toronto, LA Clippers, 18
+Brooklyn, Milwaukee, -19
+Detroit, Denver, 26
+New Orleans, Indiana, -2
+Phoenix, Houston, -8
+Sacramento, San Antonio, 15
+Washington, Atlanta, -8
+Charlotte, LA Clippers, -2
+Cleveland, Boston, -7
+Indiana, LA Lakers, 42
+Memphis, Minnesota, 2
+New York, Detroit, -13
+Oklahoma City, Orlando, 10
+Philadelphia, Toronto, -12
+Portland, Miami, -10
+Brooklyn, Denver, 5
+Chicago, New Orleans, -5
+Dallas, Charlotte, 6
+Golden State, San Antonio, 39
+Milwaukee, Washington, 19
+Sacramento, Houston, -26
+Utah, Phoenix, 28
+Atlanta, Toronto, -18
+Boston, LA Lakers, -1
+Indiana, LA Clippers, 24
+Oklahoma City, Memphis, 22
+Orlando, Minnesota, 10
+Portland, San Antonio, 9
+Brooklyn, Chicago, -19
+Dallas, Milwaukee, -15
+Detroit, New York, 17
+New Orleans, Minnesota, 5
+Philadelphia, Denver, 7
+Phoenix, Golden State, -10
+Sacramento, Miami, 6
+Washington, Cleveland, 13
+Atlanta, Charlotte, -9
+Boston, LA Clippers, -11
+Chicago, Washington, -9
+Houston, Oklahoma City, -5
+Indiana, Cleveland, 15
+Memphis, New Orleans, 9
+Milwaukee, Orlando, -20
+New York, Toronto, -5
+Utah, San Antonio, 20
+Atlanta, Orlando, -16
+Dallas, Portland, 1
+Golden State, Miami, 2
+Philadelphia, LA Lakers, 23
+Sacramento, Phoenix, 13
+Chicago, Milwaukee, -13
+Cleveland, New York, 3
+Denver, Miami, 16
+Detroit, Washington, 9
+Houston, Dallas, 16
+Indiana, Charlotte, 9
+Minnesota, LA Clippers, 10
+Oklahoma City, Portland, 9
+Toronto, Brooklyn, 2
+Atlanta, LA Lakers, 4
+Golden State, Utah, 7
+Memphis, San Antonio, -1
+New Orleans, Orlando, -30
+Philadelphia, Boston, -3
+Boston, Detroit, 8
+Chicago, Memphis, 12
+Cleveland, Brooklyn, -9
+Dallas, Miami, -11
+Denver, Sacramento, 2
+Indiana, Milwaukee, -9
+LA Clippers, Phoenix, 27
+Minnesota, Houston, 10
+New York, Philadelphia, -15
+Portland, Golden State, 22
+Toronto, Washington, 9
+Atlanta, New York, -15
+New Orleans, Oklahoma City, 9
+Orlando, Charlotte, 38
+Brooklyn, Portland, -14
+Cleveland, Phoenix, 13
+Golden State, Sacramento, 2
+LA Lakers, Houston, 5
+Milwaukee, Boston, 1
+Philadelphia, Miami, 4
+Atlanta, Detroit, -3
+Charlotte, Washington, 13
+Dallas, Denver, -10
+Indiana, New Orleans, 15
+Memphis, LA Clippers, -6
+New York, Minnesota, -11
+Oklahoma City, Utah, 1
+Orlando, Chicago, -1
+Toronto, San Antonio, 3
+Atlanta, Phoenix, 8
+Chicago, Boston, 10
+Charlotte, Brooklyn, -2
+Cleveland, Memphis, 5
+Golden State, Houston, -6
+Miami, Detroit, -23
+Milwaukee, Minnesota, 12
+New Orleans, LA Lakers, 13
+Oklahoma City, Sacramento, -3
+Philadelphia, Portland, -15
+Utah, Dallas, 16
+Washington, Indiana, -7
+Denver, LA Clippers, 27
+New York, San Antonio, 12
+Toronto, Orlando, -15
+Brooklyn, San Antonio, 16
+Chicago, Milwaukee, -11
+Charlotte, Golden State, -11
+Cleveland, Portland, -13
+Detroit, Indiana, 4
+Houston, Atlanta, 8
+LA Clippers, Dallas, 9
+Memphis, LA Lakers, 5
+Miami, Phoenix, -3
+Minnesota, Sacramento, 7
+New Orleans, Philadelphia, -1
+Denver, Oklahoma City, 9
+New York, Orlando, 5
+Toronto, Boston, 23
+Atlanta, Minnesota, 8
+Boston, Portland, -5
+Brooklyn, Washington, -9
+Charlotte, Houston, -5
+Dallas, Indiana, 9
+LA Lakers, New Orleans, 6
+Memphis, Chicago, -2
+Miami, Golden State, 1
+Sacramento, Milwaukee, -1
+San Antonio, Detroit, 12
+Utah, LA Clippers, 6
+Denver, Utah, -7
+Houston, Miami, 3
+Indiana, Minnesota, 7
+New York, Cleveland, -7
+Oklahoma City, Philadelphia, -4
+Orlando, Golden State, 7
+Atlanta, Chicago, -7
+Boston, Washington, 11
+Brooklyn, Charlotte, -11
+LA Lakers, Milwaukee, -11
+Phoenix, New Orleans, -14
+Sacramento, LA Clippers, -7
+Toronto, Portland, 2
+Cleveland, Detroit, -36
+Dallas, Memphis, -30
+Denver, New Orleans, -8
+Indiana, Orlando, -5
+Miami, Brooklyn, 29
+Philadelphia, Golden State, -3
+Phoenix, LA Lakers, 9
+San Antonio, Oklahoma City, 14
+Utah, Milwaukee, 4
+Boston, Houston, -11
+Chicago, Atlanta, -5
+Charlotte, Portland, -10
+Cleveland, Orlando, 14
+Detroit, Toronto, 5
+LA Clippers, New York, 21
+Oklahoma City, Memphis, 4
+Washington, Minnesota, 14
+Brooklyn, Dallas, 39
+LA Lakers, LA Clippers, -8
+Miami, Atlanta, 1
+Phoenix, Milwaukee, 9
+Sacramento, New York, 7
+San Antonio, Denver, 1
+Utah, New Orleans, -3
+Golden State, Boston, -33
+Indiana, Chicago, 9
+Memphis, Portland, 9
+Minnesota, Oklahoma City, 11
+Philadelphia, Orlando, 8
+Toronto, Houston, -12
+Atlanta, San Antonio, -7
+Brooklyn, Cleveland, 6
+Chicago, Philadelphia, 1
+Charlotte, Miami, -7
+Detroit, Minnesota, 17
+LA Lakers, Denver, -16
+New Orleans, Utah, -10
+Phoenix, New York, 11
+Sacramento, Boston, -2
+Washington, Dallas, 9
+Milwaukee, Indiana, 19
+Portland, Oklahoma City, -8
+Chicago, Detroit, -8
+Charlotte, Washington, 1
+Golden State, Denver, 17
+Houston, Philadelphia, 16
+LA Clippers, Oklahoma City, 8
+Memphis, Utah, 10
+Miami, Cleveland, 16
+New Orleans, Toronto, -23
+Orlando, Dallas, 5
+Atlanta, Brooklyn, -2
+LA Lakers, Boston, -13
+Milwaukee, Charlotte, 17
+Minnesota, Washington, 5
+New York, Sacramento, -8
+Portland, Phoenix, 7
+Atlanta, New Orleans, 12
+Dallas, Houston, -1
+Detroit, Chicago, 23
+Golden State, Phoenix, -4
+Memphis, Orlando, 8
+Miami, Toronto, -21
+Minnesota, New York, 11
+Philadelphia, Indiana, 17
+San Antonio, Milwaukee, 7
+Brooklyn, Detroit, 28
+Cleveland, Toronto, 25
+Houston, Charlotte, 12
+LA Clippers, Boston, 25
+Utah, Oklahoma City, -9
+Washington, Sacramento, 6
+Chicago, LA Lakers, -16
+Dallas, San Antonio, -7
+Denver, Minnesota, 26
+Indiana, New York, 5
+LA Clippers, Portland, -21
+New Orleans, Milwaukee, -17
+Philadelphia, Cleveland, 7
+Atlanta, Memphis, 21
+Houston, Golden State, -2
+Miami, Detroit, 34
+Oklahoma City, Brooklyn, 12
+Phoenix, Utah, -17
+Washington, Orlando, 10
+Boston, Sacramento, 6
+Denver, Dallas, 1
+Indiana, Oklahoma City, 2
+Orlando, Cleveland, 29
+Toronto, LA Lakers, 13
+Utah, Minnesota, 20
+Detroit, LA Lakers, 14
+Houston, Phoenix, 6
+LA Clippers, Chicago, 7
+Miami, Milwaukee, -15
+New Orleans, Portland, -12
+Philadelphia, Sacramento, 9
+San Antonio, New York, 26
+Washington, Charlotte, -6
+Boston, Atlanta, 9
+Dallas, Cleveland, 5
+Denver, Indiana, 2
+New Orleans, Phoenix, -2
+Oklahoma City, Golden State, -22
+San Antonio, Portland, 5
+Utah, Brooklyn, 16
+Washington, Memphis, 7
+Detroit, Toronto, 3
+Houston, Minnesota, 15
+LA Clippers, Brooklyn, 3
+Miami, Charlotte, 18
+Milwaukee, Philadelphia, -5
+New York, LA Lakers, 1
+Orlando, Atlanta, 10
+Sacramento, Chicago, 27
+Boston, Denver, -9
+Cleveland, Detroit, 7
+Dallas, New Orleans, -4
+Oklahoma City, Miami, -9
+Phoenix, Chicago, -15
+Portland, Indiana, 8
+San Antonio, Golden State, 6
+Toronto, New York, 36
+Washington, Utah, -21
+Atlanta, Houston, -16
+Charlotte, Philadelphia, -4
+LA Clippers, Indiana, 6
+Milwaukee, LA Lakers, 14
+Minnesota, Golden State, -10
+Sacramento, Brooklyn, -2
+Chicago, Washington, 6
+Cleveland, Milwaukee, 5
+Memphis, Houston, 1
+New York, Utah, -21
+Oklahoma City, Toronto, -9
+Orlando, New Orleans, 23
+Philadelphia, Boston, 3
+Portland, Dallas, 8
+San Antonio, Miami, -5
+Atlanta, Utah, 3
+Charlotte, Minnesota, 7
+Golden State, Indiana, 23
+Phoenix, Detroit, -20
+Sacramento, Dallas, 16
+Washington, Denver, -5
+Cleveland, LA Clippers, -2
+Houston, San Antonio, 6
+LA Lakers, Brooklyn, -5
+Milwaukee, Miami, 29
+New York, Denver, -18
+Orlando, Memphis, 4
+Toronto, Oklahoma City, -7
+Atlanta, Philadelphia, 2
+Chicago, Utah, -31
+Charlotte, Boston, 7
+Golden State, Dallas, -35
+Memphis, Minnesota, -13
+Portland, Detroit, 5
+Sacramento, Phoenix, 9
+Washington, Miami, -5
+Boston, San Antonio, -19
+Golden State, Detroit, 7
+Indiana, Denver, 36
+LA Lakers, Sacramento, 5
+Milwaukee, Cleveland, 22
+New Orleans, Houston, -23
+New York, LA Clippers, -11
+Toronto, Charlotte, -1
+Memphis, Oklahoma City, 12
+Orlando, Philadelphia, 21
+Portland, Brooklyn, 4
+Utah, Phoenix, 33
+Charlotte, San Antonio, 9
+Cleveland, Boston, -10
+Dallas, Sacramento, -4
+Denver, Detroit, 3
+LA Lakers, Washington, 18
+Miami, Orlando, -5
+Milwaukee, Houston, 14
+Minnesota, LA Clippers, -11
+New Orleans, Atlanta, -10
+Toronto, Chicago, 9
+Chicago, Portland, -20
+Memphis, Golden State, -15
+Oklahoma City, Indiana, 8
+Phoenix, Washington, -3
+Utah, LA Lakers, 15
+Detroit, Orlando, 17
+Houston, Denver, 27
+Miami, Dallas, 6
+Milwaukee, LA Clippers, 10
+New Orleans, Sacramento, 3
+New York, Toronto, -25
+Philadelphia, Brooklyn, 13
+San Antonio, Cleveland, 6
+Atlanta, Portland, -20
+Boston, Indiana, 2
+LA Lakers, Charlotte, 14
+Minnesota, Golden State, 1
+Oklahoma City, Denver, -10
+Utah, Washington, 4
+Brooklyn, Boston, 14
+Chicago, Toronto, -23
+Detroit, Portland, 9
+Houston, Sacramento, 11
+Indiana, Orlando, -5
+LA Clippers, Cleveland, 24
+Minnesota, Philadelphia, -9
+New York, Miami, -8
+Phoenix, Memphis, -5
+Atlanta, Milwaukee, 1
+Denver, Washington, -5
+Golden State, Charlotte, 47
+LA Clippers, Memphis, 17
+New Orleans, LA Lakers, -28
+Oklahoma City, Dallas, -3
+San Antonio, Sacramento, -7
+Boston, Miami, 5
+Brooklyn, Milwaukee, -10
+Dallas, Philadelphia, 20
+Indiana, Detroit, 9
+Minnesota, Portland, -10
+New York, Chicago, 8
+Phoenix, Cleveland, 9
+Toronto, Orlando, 12
+Utah, Charlotte, 9
+Golden State, Denver, 14
+Oklahoma City, LA Lakers, 16
+Sacramento, Houston, -25
+San Antonio, Atlanta, 6
+Atlanta, Philadelphia, 8
+Brooklyn, Toronto, -10
+Dallas, Minnesota, -2
+Denver, San Antonio, 28
+Detroit, Indiana, -19
+LA Clippers, Houston, -32
+Miami, Boston, -10
+New Orleans, Charlotte, -6
+Orlando, New York, 14
+Phoenix, Utah, -21
+Portland, Memphis, 27
+Washington, Chicago, -1
+LA Lakers, Golden State, -18
+Philadelphia, Milwaukee, -6
+Sacramento, Cleveland, 13
+Charlotte, Toronto, 2
+Dallas, Memphis, -10
+Denver, Portland, 9
+Golden State, Cleveland, 6
+Houston, New York, 24
+Indiana, Boston, -20
+LA Clippers, LA Lakers, -5
+Minnesota, Miami, 2
+Oklahoma City, Detroit, 13
+Orlando, Atlanta, 36
+Phoenix, New Orleans, 7
+Utah, Sacramento, 21
+Washington, San Antonio, -17
+Chicago, Philadelphia, -20
+Milwaukee, Brooklyn, -5
+Boston, Orlando, -8
+Cleveland, San Antonio, -22
+Detroit, Charlotte, -13
+Golden State, LA Clippers, 27
+Houston, Phoenix, 36
+Indiana, Brooklyn, -12
+LA Lakers, Utah, 4
+Memphis, Dallas, -2
+Milwaukee, Atlanta, 8
+Minnesota, Oklahoma City, -6
+New York, Washington, 3
+Portland, Denver, 7
+Sacramento, New Orleans, -4
+Toronto, Miami, 8
+Chicago, New York, -10
+Cleveland, Charlotte, -27
+Dallas, Phoenix, 11
+Detroit, Memphis, 7
+LA Lakers, Portland, -3
+Miami, Philadelphia, 23
+Minnesota, Toronto, -20
+New Orleans, Golden State, -9
+Oklahoma City, Houston, 1
+Utah, Denver, 10
+Washington, Boston, -6
+Atlanta, Indiana, -1
+Brooklyn, Miami, 19
+Charlotte, Orlando, -8
+Denver, Minnesota, 4
+LA Clippers, Utah, 6
+Memphis, Golden State, 15
+Milwaukee, Oklahoma City, -11
+New York, Detroit, -26
+Philadelphia, Chicago, 16
+Portland, Sacramento, 5
+San Antonio, Dallas, 11
+Denver, San Antonio, -5
+Golden State, LA Clippers, 17
+Philadelphia, Brooklyn, -9
+Toronto, Orlando, -3
+Boston, Indiana, 10
+Houston, Utah, 32
+Milwaukee, Detroit, 35
+Portland, Oklahoma City, 5
+Golden State, LA Clippers, -4
+Philadelphia, Brooklyn, 22
+Denver, San Antonio, 9
+Portland, Oklahoma City, 20
+Toronto, Orlando, 29
+Boston, Indiana, 8
+Houston, Utah, 20
+Milwaukee, Detroit, 21
+Brooklyn, Philadelphia, -16
+LA Clippers, Golden State, -27
+San Antonio, Denver, 10
+Indiana, Boston, -8
+Oklahoma City, Portland, 12
+Orlando, Toronto, -5
+Brooklyn, Philadelphia, -4
+Detroit, Milwaukee, -16
+San Antonio, Denver, -14
+Utah, Houston, -3
+Indiana, Boston, -4
+LA Clippers, Golden State, -8
+Oklahoma City, Portland, -13
+Orlando, Toronto, -22
+Detroit, Milwaukee, -23
+Utah, Houston, 16
+Denver, San Antonio, 18
+Philadelphia, Brooklyn, 22
+Portland, Oklahoma City, 3
+Toronto, Orlando, 19
+Golden State, LA Clippers, -8
+Houston, Utah, 7
+San Antonio, Denver, 17
+LA Clippers, Golden State, -19
+Denver, San Antonio, 4
+Toronto, Philadelphia, 13
+Golden State, Houston, 4
+Milwaukee, Boston, -22
+Denver, Portland, 8
+Toronto, Philadelphia, -5
+Golden State, Houston, 6
+Milwaukee, Boston, 21
+Denver, Portland, -7
+Philadelphia, Toronto, 21
+Boston, Milwaukee, -7
+Portland, Denver, 3
+Houston, Golden State, 5
+Philadelphia, Toronto, -5
+Portland, Denver, -4
+Boston, Milwaukee, -12
+Houston, Golden State, 4
+Denver, Portland, 26
+Toronto, Philadelphia, 36
+Golden State, Houston, 5
+Milwaukee, Boston, 25
+Philadelphia, Toronto, 11
+Portland, Denver, 11
+Houston, Golden State, -5
+Denver, Portland, -4
+Toronto, Philadelphia, 2
+Golden State, Portland, 22
+Milwaukee, Toronto, 8
+Golden State, Portland, 3
+Milwaukee, Toronto, 22
+Portland, Golden State, -11
+Toronto, Milwaukee, 6
+Portland, Golden State, -2
+Toronto, Milwaukee, 18
+Milwaukee, Toronto, -6
+Toronto, Milwaukee, 6
+Toronto, Golden State, 9
+Toronto, Golden State, -5
+Golden State, Toronto, -14
+Golden State, Toronto, -13
+Toronto, Golden State, -1
+Golden State, Toronto, -4
